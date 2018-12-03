@@ -1,35 +1,17 @@
-<<<<<<< HEAD
 {% include base_path %}
 
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
-=======
-{% if include.id %}
-  {% assign gallery = page[include.id] %}
->>>>>>> origin/master
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
 
-<<<<<<< HEAD
 {% if gallery.size == 2 %}
   {% assign gallery_layout = 'half' %}
 {% elsif gallery.size >= 3 %}
   {% assign gallery_layout = 'third' %}
 {% else %}
   {% assign gallery_layout = '' %}
-=======
-{% if include.layout %}
-  {% assign gallery_layout = include.layout %}
-{% else %}
-  {% if gallery.size == 2 %}
-    {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 3 %}
-    {% assign gallery_layout = 'third' %}
-  {% else %}
-    {% assign gallery_layout = '' %}
-  {% endif %}
->>>>>>> origin/master
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
@@ -39,11 +21,7 @@
         {% if img.url contains "://" %}
           "{{ img.url }}"
         {% else %}
-<<<<<<< HEAD
           "{{ img.url | prepend: "/images/" | prepend: base_path }}"
-=======
-          "{{ img.url | relative_url }}"
->>>>>>> origin/master
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >
@@ -51,11 +29,7 @@
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
           {% else %}
-<<<<<<< HEAD
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
-=======
-            "{{ img.image_path | relative_url }}"
->>>>>>> origin/master
           {% endif %}
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
@@ -64,11 +38,7 @@
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
         {% else %}
-<<<<<<< HEAD
           "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
-=======
-          "{{ img.image_path | relative_url }}"
->>>>>>> origin/master
         {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}

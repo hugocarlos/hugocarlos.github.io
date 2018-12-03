@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -1374,4 +1367,3 @@ $(document).ready(function() {
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 });
->>>>>>> origin/master

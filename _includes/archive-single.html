@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 {% include base_path %}
 
-=======
->>>>>>> origin/master
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -16,27 +13,18 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-<<<<<<< HEAD
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-=======
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
->>>>>>> origin/master
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
-<<<<<<< HEAD
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-=======
-            "{{ teaser | relative_url }}"
->>>>>>> origin/master
           {% endif %}
           alt="">
       </div>
     {% endif %}
-<<<<<<< HEAD
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
@@ -72,18 +60,5 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-=======
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
->>>>>>> origin/master
   </article>
 </div>
