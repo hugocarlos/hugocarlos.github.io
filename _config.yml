@@ -10,18 +10,12 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-<<<<<<< HEAD
 #theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.14.1"
-=======
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
->>>>>>> origin/master
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Hugo Samano"
 title_separator          : "-"
 name                     : &name "Hugo Samano-Sanchez"
@@ -32,18 +26,6 @@ repository               : "hugocarlos/hugocarlos.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-=======
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
->>>>>>> origin/master
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -58,7 +40,6 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
 staticman:
-<<<<<<< HEAD
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages"
   commitMessage          : "New comment."
@@ -74,23 +55,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # (default), "timestamp-seconds", "timestamp-milliseconds"
-=======
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
->>>>>>> origin/master
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
@@ -116,11 +80,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-<<<<<<< HEAD
   username               : &twitter
-=======
-  username               :
->>>>>>> origin/master
 facebook:
   username               :
   app_id                 :
@@ -135,11 +95,7 @@ social:
 
 # Analytics
 analytics:
-<<<<<<< HEAD
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-=======
-  provider               : false # false (default), "google", "google-universal", "custom"
->>>>>>> origin/master
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -147,7 +103,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Hugo Samano-Sanchez"
   avatar           : /images/ProfilePic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at EMBL"
@@ -201,64 +156,13 @@ author:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      # url:
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
->>>>>>> origin/master
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-<<<<<<< HEAD
   - files
-=======
->>>>>>> origin/master
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -311,7 +215,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-<<<<<<< HEAD
 # Collections
 collections:
   teaching:
@@ -384,9 +287,6 @@ defaults:
       share: true
       
       
-=======
-
->>>>>>> origin/master
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -406,10 +306,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-<<<<<<< HEAD
   - jekyll-redirect-from
-=======
->>>>>>> origin/master
   - jemoji
   - jekyll-include-cache
 
@@ -473,8 +370,5 @@ defaults:
       comments: # true
       share: true
       related: true
-<<<<<<< HEAD
 
-theme: jekyll-theme-minimal
-=======
->>>>>>> origin/master
+#theme: jekyll-theme-minimal
