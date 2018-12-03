@@ -1,10 +1,19 @@
+<<<<<<< HEAD
 {% if site.analytics.provider and page.analytics != false %}
+=======
+{% if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false %}
+>>>>>>> origin/master
 
 {% case site.analytics.provider %}
 {% when "google" %}
   {% include /analytics-providers/google.html %}
 {% when "google-universal" %}
   {% include /analytics-providers/google-universal.html %}
+<<<<<<< HEAD
+=======
+{% when "google-gtag" %}
+  {% include /analytics-providers/google-gtag.html %}
+>>>>>>> origin/master
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}

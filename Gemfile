@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+<<<<<<< HEAD
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -28,3 +29,6 @@ gem "github-pages", group: :jekyll_plugins
 #  gem "jekyll-feed"
 #  gem 'jekyll-sitemap'
 #end
+=======
+gemspec
+>>>>>>> origin/master

@@ -1,6 +1,12 @@
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{ site.analytics.google.tracking_id }}']);
+<<<<<<< HEAD
+=======
+  {% if site.analytics.google.anonymize_ip == true %}
+    _gaq.push(['_gat._anonymizeIp']);
+  {% endif %}
+>>>>>>> origin/master
   _gaq.push(['_trackPageview']);
 
   (function() {
