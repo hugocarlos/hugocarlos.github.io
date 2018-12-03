@@ -28,14 +28,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>areyesq89.github.io/_main.js at master · areyesq89/areyesq89.github.io</title>
-    <meta name="description" content="Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes - areyesq89/areyesq89.github.io">
+  <title>hugocarlos.github.io/_main.js at master · hugocarlos/hugocarlos.github.io</title>
+    <meta name="description" content="Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes - hugocarlos/hugocarlos.github.io">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/12632413?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="areyesq89/areyesq89.github.io" /><meta property="og:url" content="https://github.com/areyesq89/areyesq89.github.io" /><meta property="og:description" content="Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes - areyesq89/areyesq89.github.io" />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/12632413?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="hugocarlos/hugocarlos.github.io" /><meta property="og:url" content="https://github.com/hugocarlos/hugocarlos.github.io" /><meta property="og:description" content="Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes - hugocarlos/hugocarlos.github.io" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzQ2NjQ5MzU3OjczZjE0MmI4NDE2YzA1MWJhNDZlMTgzNTNkNGRlYzQ4MmFiZjMxNWI5ZDJhOWUwMjhjOGZmZDU3YmM4NzQyNTY=--caf05cacc080b5ebf2a11486e0e25712740c69a6">
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="cdc9a5bb30661c6c1c8e99ce4d3646f2">
   
 
-      <link href="https://github.com/areyesq89/areyesq89.github.io/commits/master.atom" rel="alternate" title="Recent Commits to areyesq89.github.io:master" type="application/atom+xml">
+      <link href="https://github.com/hugocarlos/hugocarlos.github.io/commits/master.atom" rel="alternate" title="Recent Commits to hugocarlos.github.io:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/areyesq89/areyesq89.github.io git https://github.com/areyesq89/areyesq89.github.io.git">
+  <meta name="go-import" content="github.com/hugocarlos/hugocarlos.github.io git https://github.com/hugocarlos/hugocarlos.github.io.git">
 
-  <meta name="octolytics-dimension-user_id" content="12632413" /><meta name="octolytics-dimension-user_login" content="areyesq89" /><meta name="octolytics-dimension-repository_id" content="118351644" /><meta name="octolytics-dimension-repository_nwo" content="areyesq89/areyesq89.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="68287594" /><meta name="octolytics-dimension-repository_parent_nwo" content="academicpages/academicpages.github.io" /><meta name="octolytics-dimension-repository_network_root_id" content="68287594" /><meta name="octolytics-dimension-repository_network_root_nwo" content="academicpages/academicpages.github.io" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="12632413" /><meta name="octolytics-dimension-user_login" content="hugocarlos" /><meta name="octolytics-dimension-repository_id" content="118351644" /><meta name="octolytics-dimension-repository_nwo" content="hugocarlos/hugocarlos.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="68287594" /><meta name="octolytics-dimension-repository_parent_nwo" content="academicpages/academicpages.github.io" /><meta name="octolytics-dimension-repository_network_root_id" content="68287594" /><meta name="octolytics-dimension-repository_network_root_nwo" content="academicpages/academicpages.github.io" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/areyesq89/areyesq89.github.io/blob/master/assets/js/_main.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/hugocarlos/hugocarlos.github.io/blob/master/assets/js/_main.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -142,7 +142,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="118351644" data-scoped-search-url="/areyesq89/areyesq89.github.io/search" data-unscoped-search-url="/search" action="/areyesq89/areyesq89.github.io/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="118351644" data-scoped-search-url="/hugocarlos/hugocarlos.github.io/search" data-unscoped-search-url="/search" action="/hugocarlos/hugocarlos.github.io/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -490,7 +490,7 @@
         </details-menu>
       </details>
       <a class="social-count js-social-count"
-        href="/areyesq89/areyesq89.github.io/watchers"
+        href="/hugocarlos/hugocarlos.github.io/watchers"
         aria-label="1 user is watching this repository">
         1
       </a>
@@ -500,32 +500,32 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/areyesq89/areyesq89.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="diWFHnvRT/NsLdCCZH88rMq2hiUHkvrW7qr5s1Om3YP1U3Xml4weRtdgsEdKHQaiPGkXWgFuzYe/+ab5MwtJng==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/hugocarlos/hugocarlos.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="diWFHnvRT/NsLdCCZH88rMq2hiUHkvrW7qr5s1Om3YP1U3Xml4weRtdgsEdKHQaiPGkXWgFuzYe/+ab5MwtJng==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar areyesq89/areyesq89.github.io"
+        aria-label="Unstar this repository" title="Unstar hugocarlos/hugocarlos.github.io"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/areyesq89/areyesq89.github.io/stargazers"
+        <a class="social-count js-social-count" href="/hugocarlos/hugocarlos.github.io/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/areyesq89/areyesq89.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5pUFXKJD7uP9YeuCo0qLFOs30xvL0s2FGEVMoxD/YcHkCph1fEuV8zPpAIBr6oXZ3EHQMC53lUZ3WmeoQg1k6g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/hugocarlos/hugocarlos.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5pUFXKJD7uP9YeuCo0qLFOs30xvL0s2FGEVMoxD/YcHkCph1fEuV8zPpAIBr6oXZ3EHQMC53lUZ3WmeoQg1k6g==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star areyesq89/areyesq89.github.io"
+        aria-label="Star this repository" title="Star hugocarlos/hugocarlos.github.io"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/areyesq89/areyesq89.github.io/stargazers"
+        <a class="social-count js-social-count" href="/hugocarlos/hugocarlos.github.io/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -534,18 +534,18 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/areyesq89/areyesq89.github.io/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7NeRVzYhTsw7cph9a6D9oWB+ZrsTtugv3j9u9W8SshkSvwsd3RIQISpvK1XM/474Cl8Ezqzj+LFFL4TMZCRzlw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/hugocarlos/hugocarlos.github.io/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7NeRVzYhTsw7cph9a6D9oWB+ZrsTtugv3j9u9W8SshkSvwsd3RIQISpvK1XM/474Cl8Ezqzj+LFFL4TMZCRzlw==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of areyesq89/areyesq89.github.io to your account"
-                aria-label="Fork your own copy of areyesq89/areyesq89.github.io to your account">
+                title="Fork your own copy of hugocarlos/hugocarlos.github.io to your account"
+                aria-label="Fork your own copy of hugocarlos/hugocarlos.github.io to your account">
               <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/areyesq89/areyesq89.github.io/network/members" class="social-count"
+    <a href="/hugocarlos/hugocarlos.github.io/network/members" class="social-count"
        aria-label="2958 users forked this repository">
       2,958
     </a>
@@ -554,9 +554,9 @@
 
       <h1 class="public ">
   <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=12632413" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/areyesq89">areyesq89</a></span><!--
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=12632413" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hugocarlos">hugocarlos</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/areyesq89/areyesq89.github.io">areyesq89.github.io</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/hugocarlos/hugocarlos.github.io">hugocarlos.github.io</a></strong>
 
     <span class="fork-flag">
       <span class="text">forked from <a href="/academicpages/academicpages.github.io">academicpages/academicpages.github.io</a></span>
@@ -572,7 +572,7 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /areyesq89/areyesq89.github.io" href="/areyesq89/areyesq89.github.io">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /hugocarlos/hugocarlos.github.io" href="/hugocarlos/hugocarlos.github.io">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
@@ -580,7 +580,7 @@
 
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /areyesq89/areyesq89.github.io/pulls" href="/areyesq89/areyesq89.github.io/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /hugocarlos/hugocarlos.github.io/pulls" href="/hugocarlos/hugocarlos.github.io/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -588,17 +588,17 @@
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /areyesq89/areyesq89.github.io/projects" href="/areyesq89/areyesq89.github.io/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /hugocarlos/hugocarlos.github.io/projects" href="/hugocarlos/hugocarlos.github.io/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /areyesq89/areyesq89.github.io/wiki" href="/areyesq89/areyesq89.github.io/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /hugocarlos/hugocarlos.github.io/wiki" href="/hugocarlos/hugocarlos.github.io/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /areyesq89/areyesq89.github.io/pulse" href="/areyesq89/areyesq89.github.io/pulse">
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /hugocarlos/hugocarlos.github.io/pulse" href="/hugocarlos/hugocarlos.github.io/pulse">
     <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
@@ -614,7 +614,7 @@
     
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/areyesq89/areyesq89.github.io/blob/090fec0348a8069800206be9d4a3ae16b298077b/assets/js/_main.js">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/hugocarlos/hugocarlos.github.io/blob/090fec0348a8069800206be9d4a3ae16b298077b/assets/js/_main.js">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:b86f16f2140361ce9b48a727c739be70 -->
 
@@ -660,7 +660,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/areyesq89/areyesq89.github.io/blob/fix-teaching/assets/js/_main.js"
+               href="/hugocarlos/hugocarlos.github.io/blob/fix-teaching/assets/js/_main.js"
                data-name="fix-teaching"
                data-skip-pjax="true"
                rel="nofollow">
@@ -670,7 +670,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/areyesq89/areyesq89.github.io/blob/master/assets/js/_main.js"
+               href="/hugocarlos/hugocarlos.github.io/blob/master/assets/js/_main.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -680,7 +680,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/areyesq89/areyesq89.github.io/blob/read-more/assets/js/_main.js"
+               href="/hugocarlos/hugocarlos.github.io/blob/read-more/assets/js/_main.js"
                data-name="read-more"
                data-skip-pjax="true"
                rel="nofollow">
@@ -699,7 +699,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/areyesq89/areyesq89.github.io/tree/v0.8.1/assets/js/_main.js"
+              href="/hugocarlos/hugocarlos.github.io/tree/v0.8.1/assets/js/_main.js"
               data-name="v0.8.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -709,7 +709,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/areyesq89/areyesq89.github.io/tree/0.8.0/assets/js/_main.js"
+              href="/hugocarlos/hugocarlos.github.io/tree/0.8.0/assets/js/_main.js"
               data-name="0.8.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -728,7 +728,7 @@
 </div>
 
       <div class="BtnGroup float-right">
-        <a href="/areyesq89/areyesq89.github.io/find/master"
+        <a href="/hugocarlos/hugocarlos.github.io/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -739,12 +739,12 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/areyesq89/areyesq89.github.io"><span>areyesq89.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/areyesq89/areyesq89.github.io/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/areyesq89/areyesq89.github.io/tree/master/assets/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">_main.js</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/hugocarlos/hugocarlos.github.io"><span>hugocarlos.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/hugocarlos/hugocarlos.github.io/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/hugocarlos/hugocarlos.github.io/tree/master/assets/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">_main.js</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/areyesq89/areyesq89.github.io/contributors/master/assets/js/_main.js" class="commit-tease commit-loader">
+    <include-fragment src="/hugocarlos/hugocarlos.github.io/contributors/master/assets/js/_main.js" class="commit-tease commit-loader">
       <div>
         Fetching contributors&hellip;
       </div>
@@ -762,25 +762,25 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/areyesq89/areyesq89.github.io/raw/master/assets/js/_main.js">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/areyesq89/areyesq89.github.io/blame/master/assets/js/_main.js">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/areyesq89/areyesq89.github.io/commits/master/assets/js/_main.js">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/hugocarlos/hugocarlos.github.io/raw/master/assets/js/_main.js">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/hugocarlos/hugocarlos.github.io/blame/master/assets/js/_main.js">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/hugocarlos/hugocarlos.github.io/commits/master/assets/js/_main.js">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-mac://openRepo/https://github.com/areyesq89/areyesq89.github.io?branch=master&amp;filepath=assets%2Fjs%2F_main.js"
+           href="github-mac://openRepo/https://github.com/hugocarlos/hugocarlos.github.io?branch=master&amp;filepath=assets%2Fjs%2F_main.js"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:mac">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/areyesq89/areyesq89.github.io/edit/master/assets/js/_main.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oWBTXzSeUPYGBrBSppawV+wZu+6rfS0sb3nBzMv5SBsfSupjWywMDsQcuVz5qdgdDAGsOvVuBSIWu/KIwlg7ow==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/hugocarlos/hugocarlos.github.io/edit/master/assets/js/_main.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oWBTXzSeUPYGBrBSppawV+wZu+6rfS0sb3nBzMv5SBsfSupjWywMDsQcuVz5qdgdDAGsOvVuBSIWu/KIwlg7ow==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/areyesq89/areyesq89.github.io/delete/master/assets/js/_main.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qAj4pN26Zyx3kcLckGDP7YCOSkIvWhSDpU+WHFkU7JoHy0RRM8S4U5Ynttqf4YdL0u8nNfYQ1SwRyjUsW0/IxQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/hugocarlos/hugocarlos.github.io/delete/master/assets/js/_main.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qAj4pN26Zyx3kcLckGDP7YCOSkIvWhSDpU+WHFkU7JoHy0RRM8S4U5Ynttqf4YdL0u8nNfYQ1SwRyjUsW0/IxQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1148,7 +1148,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/areyesq89/areyesq89.github.io/blame/090fec0348a8069800206be9d4a3ae16b298077b/assets/js/_main.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/hugocarlos/hugocarlos.github.io/blame/090fec0348a8069800206be9d4a3ae16b298077b/assets/js/_main.js">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
