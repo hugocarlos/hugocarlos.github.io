@@ -18,7 +18,7 @@ List of publications:
 
 * Gouw M., Michael, S., **Sámano-Sánchez, H.**, et al. The eukaryotic linear motif resource–2018 update. Nucleic acids research, 2017. [https://doi.org/10.1093/nar/gkx1077](https://doi.org/10.1093/nar/gkx1077).
 
-* 
+* Kosaisavee, K., **Sámano-Sánchez, H.**, et al. Strict tropism for CD71+/CD234+ human reticulocytes limits the zoonotic potential of *Plasmodium cynomolgi*. 
 
 <sup>*</sup> Denotes co-first authors
 

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a summarized version of my CV. You can download my full CV **[here](/files/cv/cv_reyes.pdf)**.
+Below is a summarized version of my CV. You can download my full CV **[here](/files/cv/HugoSamanoSanchez-CV.pdf)**.
 
 Work experience
 ======

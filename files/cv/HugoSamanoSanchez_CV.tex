@@ -1,0 +1,224 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.11 (19/6/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{amsmath}
+\usepackage[english]{babel}
+\usepackage{enumitem}
+
+
+\usepackage[scale=.85]{geometry} % Reduce document margins
+\setlength{\hintscolumnwidth}{2.5cm} % Uncomment to change the width of the dates column
+%\setitemize{label=\textbullet}
+\setitemize{label=\raisebox{.5\height}{\scalebox{0.8}{\textbullet}}}
+\setlength{\itemsep}{0.1pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Hugo} % Your first name
+\familyname{Sámano-Sánchez} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{\emph{Curriculum Vitae (\today)}}
+%\address{Heinrich-Fuchs-Strasse 11}{Heidelberg, Germany, 69126}
+%\mobile{+49 - 15145943355}
+\email{hsamano@lcg.unam.mx}
+%\mobile{+49 - 15145943355}
+%\fax{+49 (0) 6221 387 8517}
+%
+\extrainfo{
+  \href{https://twitter.com/hugocarlos__}{Twitter: @hugocarlos__}\\
+  \href{http://orcid.org/0000-0003-4744-4787}{ORCID: 0000-0003-4744-4787}\\
+  \href{https://scholar.google.de/citations?user=c5EwcVAAAAAJ&hl=en}{Google Scholar: c5EwcVAAAAAJ}\\
+  \href{https://publons.com/a/1644581/}{Publons: 1644581}
+}
+
+%\email{\date{}}
+%\homepage{staff.org.edu/~jsmith}{staff.org.edu/$\sim$jsmith} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+%\extrainfo{Birth date: February 12, 1989.}
+%\photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"A witty and playful quotation" - John Smith}
+
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+\makecvtitle % Print the CV title
+\vspace{-1.2cm}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{Summary}
+Mostly interested in computational approaches to understand host-pathogen interactions. Trained in Genomic Sciences I soon got into bioinformatics and computational biology. After the university I worked on antibody repertoirs to compare immunologic challenges. In 2013 I started a masters at the University of Basel and performed my thesis at the National University of Singapore working with lipidomics data from clinical isolates of malaria patients. Currently, I am on my last year of my PhD working on Short Linear Motifs at the host-pathogen interface.
+
+\section{Education}
+
+\cventry{10/15 - today}{Ph.D. in Molecular Biology}{\emph{European Molecular Biology Laboratory / University of Heidelberg}}{Heidelberg, Germany}{}{\emph{}}
+\cventry{09/13 - 02/15}{Joint Master Programme in Infectious Diseases, Vaccinology and Drug Discovery}{\emph{University of Basel and the National University of Singapore}}
+\cventry{08/07 - 06/11}{B.Sc. in Genomic Sciences}{\emph{Autonomous National University of Mexico}}{Cuernavaca, Mexico}{}{With honours.}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Research Experience}
+\cventry{10/15 - today}{PhD Student}{}{European Moleular Biology Laboratory}{Heidelgerg, Germany}{
+  \begin{itemize}
+    \item Advisor: Dr. Toby J. Gibson.
+    \item Computational screening for Eukaryotic Short Linear Motifs being mimicked in bacterial proteins.
+    \item Computational prediction of Linear Motifs at the \textit{Plasmodium}-Host interface. Two publications.
+  \end{itemize}
+}
+\cventry{01/14 - 02/15}{Master thesis}{}{Vivax Malaria Lab, National University of Singapore}{Singapore}{
+  \begin{itemize}
+  \item Advisor: Dr. Bruce M. Russell.
+  \item Data analysis of Mass Spectrometry and Tandem Mass Spectrometry experiments to identify characteristic lipids of human reticulocytes or \textit{Plasmodium vivax}-infected human reticulocytes.
+  \item Bioinformatics analyses to study receptor-ligand interactions during \textit{Plasmodium vivax} reticulocyte infection. One publication.
+  \end{itemize}
+}
+\cventry{10/12 - 07/13}{Research Assistant}{}{National Institute of Public Health}{Cuernavaca, Mexico}{
+  \begin{itemize}
+  \item Advisor: Dr. Jesus Martinez-Barnetche.
+  \item Bioinformatics analysis of high-throughput sequencing data from human and murine lymphocyte antigen receptors challenged with inactivated viruses or bacterial pathogens, respectively. Three publications.
+  \end{itemize}
+}
+\cventry{01/12 - 09/12}{Bioinformatics Consultant}{}{Winter Genomics (http://www.wintergenomics.com/)}{Cuernavaca, Mexico}{
+  \begin{itemize}
+  \item Advisor: Dr. Enrique Morett.
+  \item Genome assembly, annotation and structural variation analysis of two \textit{Babesia} species under two growth conditions. Bioinformatics analysis service at the Winter Genomics enterprise (http://www.wintergenomics.com/).
+  \end{itemize}
+}
+\cventry{08/10 -- 12/11}{Undergraduate Research Assistant}{}{Autonomous National University of Mexico}{Cuernavaca, Mexico}{
+  \begin{itemize}
+  \item Advisor: Dr. Esperanza Martinez-Romero .
+  \item Phylogenetic analysis of cospeciation events between scale insects and their symbiotic bacteria. One publication.
+   \end{itemize}
+}
+  
+\section{Scientific Publications}
+\vspace{-.1cm}
+\footnotesize{$^{\ast}$ Contributed equally.} \hspace{.5cm}
+%\footnotesize{$^{\dagger}$ Shared last authorship.}
+\vspace{.1cm}
+\begin{itemize}
+
+\item Sampietro, D., \textbf{\underline{Sámano-Sánchez, H.}}, ..., Gibson, T.J., Kumar, M. Conserved SQ and QS motifs in bacterial effectors suggest pathogen interplay with the ATM kinase family during infection. \textit{biorXiv}, 2018. \href{https://doi.org/10.1101/364117}{doi: 10.1101/364117}
+\item Gouw, M., Michael, S., \textbf{\underline{Sámano-Sánchez, H.}}, ..., Gibson, J.T. The eukaryotic linear motif resource – 2018 update. \textit{Nucleic Acids Research}. \href{https://doi.org/10.1093/nar/gkx1077}{doi: 10.1093/nar/gkx1077}
+\item Kosaisavee, V., ..., \textbf{\underline{Sámano-Sánchez, H.}}, ..., Rénia, L., Russell, B. Strict tropism for CD71+/CD234+ human reticulocytes limits the zoonotic potential of \textit{Plasmodium cynomolgi}. \textit{Blood}, 2017. \href{https://doi.org/10.1182/blood-2017-02-764787}{doi: 10.1182/blood-2017-02-764787}
+\item Gouw, M., \textbf{\underline{Sámano-Sánchez, H.}}, ..., Dinkel, H. Exploring Short Linear Motifs Using the ELM Database and Tools. \textit{Current Protocols in Bioinformatics}, 2017. \href{https://doi.org/10.1002/cpbi.26}{doi: 10.1002/cpbi.26}
+\item Godoy-Lozano, E.E., ..., \textbf{\underline{Sámano-Sánchez, H.}}, ..., Martínez-Barnetche, J. Lower IgG somatic hypermutation rates during acute dengue virus infection is compatible with a germinal center-independent B cell response. \textit{Genome Medicine}, 2016. \href{https://doi.org/10.1186/s13073-016-0276-1}{doi: 10.1186/s13073-016-0276-1}
+\item Cortina-Ceballos, B., ..., \textbf{\underline{Sámano-Sánchez, H.}}, ..., Martínez-Barnetche, J. Longitudinal analysis of the peripheral B cell repertoire reveals unique effects of immunization with a new Influenza virus strain. \textit{Genome Medicine}, 2015. \href{https://doi.org/10.1186/s13073-015-0239-y}{doi: 10.1186/s13073-015-0239-y}
+\item Cortina-Ceballos, B.$^{\ast}$, Godoy-Lozano, E.E.$^{\ast}$, \textbf{\underline{Sámano-Sánchez, H.}}$^{\ast}$, ..., Martínez-Barnetche, J. Reconstructing and mining the B cell repertoire with ImmunediveRsity. \textit{mAbs}, 2015. \href{https://doi.org/10.1080/19420862.2015.1026502}{doi: 10.1080/19420862.2015.1026502}
+\item Rosenblueth, M., Sayavedra, L., \textbf{\underline{Sámano-Sánchez, H.}}, Roth, A., Martínez-Romero, E. Evolutionary Relationships of Flavobacteria and Enterobacterial Endosymbionts with their Scale Insect Hosts (Hemiptera: Coccoidea). \textit{Journal of Evolutionary Biology}, 2011. \href{https://doi.org/10.1111/j.1420-9101.2012.02611.x}{doi: 10.1111/j.1420-9101.2012.02611.x}
+
+\section{Awards and Scholarships}
+\begin{itemize}
+\item Travel Fellow Award from the National Institute of Allergy and Infectious Diseases to attend the 5th International Conference of Research on \textit{Plasmodium vivax} Malaria.
+\item Travel Fellow Award from the \textit{Fundação de Amparo à Pesquisa do Estado de São Paulo} to participate in the Science of Eradication: Malaria course in Sao Paulo, Brazil.
+\item Scholarship from the Swiss Tropical and Public Health Institute to study the Joint master program on Infectious Diseases, Vaccinology and Drug Discovery.\\
+\end{itemize}
+%\vspace{-.13cm}
+%\section{Software development}
+%\vspace{-.1cm}
+%\begin{itemize}
+%\item \href{http://www.bioconductor.org/packages/release/bioc/html/xxx.html}{XxxXxx}: Xxx. \textit{R/Bioconductor}.
+%\end{itemize}
+%\vspace{-.2cm}
+
+\section{Talks and Posters}
+\vspace{-.1cm}
+\textbf{Invited talks}
+\begin{itemize}
+\item Institutional seminar at the Biotechnology Research Institute (IIB), National University of San Martin (UNSAM), Buenos Aires, Argentina, 2017.
+\end{itemize}
+\vspace{.1cm}
+\textbf{Selected talks}
+\begin{itemize}
+\item VIII Argentinian Bioinformatics and Computational Biology Congress, Posadas, Argentina, 2017.
+\item 5th International Conference of Research on \textit{Plasmodium vivax} Malaria, Bali, Indonesia, 2015.
+\end{itemize}
+\vspace{.1cm}
+\textbf{Poster presentations}
+\begin{itemize}
+\item EMBO Workshop on Molecular advances and parasite strategies in host infection, Les Embiez Island, France, 2018.
+\item EMBO Conference on Hijacking host signalling and epigenetic mimicry during infections, Paris, France, 2017.
+\item 2nd Interdisciplinary signaling workshop, Visegrad, Hungary, 2017.
+\item The modularity of signaling proteins and networks, Seefeld, Austria, 2016.
+\end{itemize}
+
+%------------------------------------------------
+\vspace{-.2cm}
+\section{Teaching}
+\vspace{-.1cm}
+\textbf{Organizer}
+\begin{itemize}
+\item Bioinformatics Tools for Protein Structure, Disorder and Interaction Analysis, National University of San Martin, Buenos Aires, Argentina, 2017.
+\end{itemize}
+\vspace{.1cm}
+\textbf{Mentor and lecturer}
+\begin{itemize}
+\item Protein bioinformatics part of EMBL Predoc Course, Heidelberg, Germany, 2018.
+\item Basic Teaching Module part of EMBL Predoc Course: Phylogenetics, Tools for 3D molecule interactive visualization and R datasets. Heidelberg, Germany, 2016.
+\end{itemize}
+\vspace{.1cm}
+\textbf{Teaching assistant}
+\begin{itemize}
+\item Linear Algebra. National Autonomous University of Mexico. Cuernavaca, Mexico, 2012.
+\item Seminars on Genomic Applications. National Autonomous University of Mexico. Cuernavaca, Mexico, 2011.
+\item Discrete Mathematics. National Autonomous University of Mexico. Cuernavaca, Mexico, 2010 and 2011.
+\end{itemize}
+
+\section{Skills}
+\cvitem{Programming languages}{R/Bioconductor, Bash, basics of Python, Perl, C}
+\cvitem{Languages}{Spanish (native), English (advanced), French (basic)}
+\vspace{.1cm}
+\textbf{Research interests}
+\begin{itemize}
+\item Host-Pathogen interactions.
+\item Genomic approaches in infectious diseases.
+\end{itemize}
+\textbf{Other interests}
+\begin{itemize}
+\item Traveling, cooking, photography.
+\end{itemize}
+
+\section{References}
+\begin{itemize}
+\item Dr. Toby, J. Gibson (toby.gibson@embl.de).
+Team Leader at the European Molecular Biology Laboratory.
+\item Dr. Bruce M. Russell (b.russell@otago.ac.nz).
+Associate Professor at University of Otago, New Zealand.
+\end{itemize}
+
+\end{document}
