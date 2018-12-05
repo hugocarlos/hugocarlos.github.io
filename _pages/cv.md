@@ -22,6 +22,6 @@ Research experience
 
 * 10/15 - today: **PhD student**, European Moleular Biology Laboratory, Heidelgerg, Germany. Advisor: Dr. Toby J. Gibson.
 * 01/14 - 02/15: **Master thesis**, Vivax Malaria Lab, National University of Singapore, Singapore. Advisors: Dr. Bruce M. Russell and Prof. Dr. Markus R. Wenk
-* 10/12 - 07/13: **Research Assistant**, National Institute of Public Health, Cuernavaca, Mexico. Advisor: Jesus Martínez-Barnetche.
+* 10/12 - 07/13: **Research Assistant**, National Institute of Public Health, Cuernavaca, Mexico. Advisor: Jesús Martínez-Barnetche.
 * 01/12 - 09/12: **Bioinformatics Consultant**, Winter Genomics, Cuernavaca, Mexico.
 * 08/10 - 12/11: **Undergraduate Research Assistant**, Center for Genomic Sciences, National Autonomous University of Mexico, Cuernavaca, Mexico.
