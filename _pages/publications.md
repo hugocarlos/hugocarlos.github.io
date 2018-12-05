@@ -23,7 +23,7 @@ List of publications:
 
 * Cortina-Ceballos, B., ..., **Sámano-Sánchez, H.**, ..., Martínez-Barnetche, J. Longitudinal analysis of the peripheral B cell repertoire reveals unique effects of immunization with a new Influenza virus strain. *Genome Medicine*, 2015. doi: [10.1186/s13073-015-0239-y](https://doi.org/10.1186/s13073-015-0239-y)
 
-* Cortina-Ceballos, B.<sup>\*</sup>, Godoy-Lozano, E.E.<sup>\*</sup>, **Sámano-Sánchez, H.**<sup>\*</sup>, ..., Martínez-Barnetche, J. Reconstructing and mining the B cell repertoire with ImmunediveRsity. *mAbs*, 2015. doi: [10.1080/19420862.2015.1026502](https://doi.org/10.1080/19420862.2015.1026502)
+* Cortina-Ceballos, B.<sup>\*</sup>, Godoy-Lozano, E.E.<sup>\*</sup>, **Sámano-Sánchez, H.<sup>\*</sup>**, ..., Martínez-Barnetche, J. Reconstructing and mining the B cell repertoire with ImmunediveRsity. *mAbs*, 2015. doi: [10.1080/19420862.2015.1026502](https://doi.org/10.1080/19420862.2015.1026502)
 
 * Rosenblueth, M., Sayavedra, L., **Sámano-Sánchez, H.**, Roth, A., Martínez-Romero, E. Evolutionary Relationships of Flavobacteria and Enterobacterial Endosymbionts with their Scale Insect Hosts (Hemiptera: Coccoidea). *\textit{*Journal of Evolutionary Biology*, 2011. doi: [10.1111/j.1420-9101.2012.02611.x](https://doi.org/10.1111/j.1420-9101.2012.02611.x)
 
