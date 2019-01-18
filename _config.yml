@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : &name "Hugo Sámano-Sánchez"
 description              : &description "PhD student at EMBL Heidelberg"
 url                      : https://hugocarlos.github.io # the base hostname & protocol for your site e.g. "https://hugocarlos.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "hugocarlos/hugocarlos.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
