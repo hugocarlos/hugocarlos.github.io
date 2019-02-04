@@ -28,5 +28,3 @@ List of publications:
 * Rosenblueth, M., Sayavedra, L., **Sámano-Sánchez, H.**, Roth, A., Martínez-Romero, E. Evolutionary Relationships of Flavobacteria and Enterobacterial Endosymbionts with their Scale Insect Hosts (Hemiptera: Coccoidea). *\textit{*Journal of Evolutionary Biology*, 2011. doi: [10.1111/j.1420-9101.2012.02611.x](https://doi.org/10.1111/j.1420-9101.2012.02611.x).
 
 **<sup>\*</sup>** Denotes co-first authors
-No Bold, sups: <sup>*</sup>
-only asterisc: *
