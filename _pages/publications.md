@@ -11,7 +11,9 @@ For a full list of publications, please visit my **[Google Scholar profile](http
 
 List of publications:
 
-* Sampietro D., **Sámano-Sánchez**, et al. Conserved SQ and QS motifs in bacterial effectors suggest pathogen interplay with the ATM kinase family during infection. *bioRxiv*, 2018. doi: [10.1101/364117](https://www.biorxiv.org/content/early/2018/07/09/364117.abstract).
+* Kumar, M., Gouw, M., **Sámano-Sánchez, H.**, ..., Gibson, J.T. ELM—the eukaryotic linear motif resource in 2020. *Nucleic acids research*, 2019. doi: [https://doi.org/10.1093/nar/gkz1030](https://doi.org/10.1093/nar/gkz1030).
+
+* Sampietro D., **Sámano-Sánchez, H.**, et al. Conserved SQ and QS motifs in bacterial effectors suggest pathogen interplay with the ATM kinase family during infection. *bioRxiv*, 2018. doi: [10.1101/364117](https://www.biorxiv.org/content/early/2018/07/09/364117.abstract).
 
 * Gouw M., Michael, S., **Sámano-Sánchez, H.**, ..., Gibson, J.T. The eukaryotic linear motif resource–2018 update. *Nucleic acids research*, 2017. doi: [10.1093/nar/gkx1077](https://doi.org/10.1093/nar/gkx1077).
 
