@@ -13,7 +13,7 @@ Below is a summarized version of my CV. You can download my full CV **[here](/fi
 
 Education
 ======
-* **[Ph.D. in Molecular Biology](https://www.embl.de/training/eipp/)**, European Molecular Biology Laboratory and The University of Heidelberg, Heidelberg, Germany. Currently.
+* **[Ph.D. in Molecular Biology](https://www.embl.de/training/eipp/)**, European Molecular Biology Laboratory and the University of Heidelberg, Heidelberg, Germany, 2019.
 * **[Joint Master Programme in Infectious Diseases Vaccinology and Drug Discovery](https://www.unibas.ch/de/Studium/Studienangebot/Studiengaenge-faecher/Infectious-Diseases.html)**, University of Basel/National University of Singapore, Switzerland/Singapore, 2015.
 * **[B.Sc. in Genomics Sciences](http://www.lcg.unam.mx/about)**, National Autonomous University of Mexico (UNAM), Cuernavaca, Mexico, 2011.
 
