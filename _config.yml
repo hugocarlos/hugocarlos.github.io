@@ -16,7 +16,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hugo Sámano-Sánchez"
+title                    : "Hugo Sámano-Sánchez, PhD"
 title_separator          : "-"
 name                     : &name "Hugo Sámano-Sánchez"
 description              : &description "personal description"
