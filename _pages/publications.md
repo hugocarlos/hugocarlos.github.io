@@ -11,7 +11,9 @@ For a full list of publications, please visit my **[Google Scholar profile](http
 
 List of publications:
 
-* Kumar, M., Gouw, M., **Sámano-Sánchez, H.**, ..., Gibson, J.T. ELM—the eukaryotic linear motif resource in 2020. *Nucleic acids research*, 2019. doi: [https://doi.org/10.1093/nar/gkz1030](https://doi.org/10.1093/nar/gkz1030).
+* **Sámano-Sánchez, H.**, Gibson, J.T. Mimicry of Short Linear Motifs by Bacterial Pathogens: A Drugging Opportunity. *Trends in Biochemical Sciences*, 2020. doi: [10.1016/j.tibs.2020.03.003](https://doi.org/10.1016/j.tibs.2020.03.003).
+
+* Kumar, M., Gouw, M., **Sámano-Sánchez, H.**, ..., Gibson, J.T. ELM—the eukaryotic linear motif resource in 2020. *Nucleic acids research*, 2019. doi: [10.1093/nar/gkz1030](https://doi.org/10.1093/nar/gkz1030).
 
 * Sampietro D., **Sámano-Sánchez, H.**, et al. Conserved SQ and QS motifs in bacterial effectors suggest pathogen interplay with the ATM kinase family during infection. *bioRxiv*, 2018. doi: [10.1101/364117](https://www.biorxiv.org/content/early/2018/07/09/364117.abstract).
 
