@@ -20,7 +20,7 @@ Education
 Research experience
 ======
 
-* 10/15 - today: **PhD student / Bridging Postdoctoral Fellow**, European Moleular Biology Laboratory, Heidelgerg, Germany. Advisor: Dr. Toby J. Gibson.
+* 10/15 - 01/20: **PhD student / Bridging Postdoctoral Fellow**, European Moleular Biology Laboratory, Heidelgerg, Germany. Advisor: Dr. Toby J. Gibson.
 * 01/14 - 02/15: **Master thesis**, Vivax Malaria Lab, National University of Singapore, Singapore. Advisors: Dr. Bruce M. Russell and Prof. Dr. Markus R. Wenk.
 * 10/12 - 07/13: **Research Assistant**, National Institute of Public Health, Cuernavaca, Mexico. Advisor: Jesús Martínez-Barnetche.
 * 01/12 - 09/12: **Bioinformatics Consultant**, Winter Genomics, Cuernavaca, Mexico.

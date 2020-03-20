@@ -107,9 +107,9 @@ analytics:
 author:
   name             : "Hugo Sámano-Sánchez"
   avatar           : "ProfilePic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student at EMBL"
+#  bio              : "PhD student at EMBL"
   location         : "Heidelberg, Germany"
-  email            : "hugo.samano[@]embl.de"
+  email            : "hsamano[@]lcg.unam.mx"
   googlescholar    : "https://scholar.google.de/citations?user=c5EwcVAAAAAJ"
   github           : "hugocarlos"
   linkedin         : "hugo-samano-sanchez-314aa785"
