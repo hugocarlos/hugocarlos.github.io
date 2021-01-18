@@ -11,7 +11,7 @@ For a full list of publications, please visit my **[Google Scholar profile](http
 
 List of publications:
 
-* Meszaros, B., **Sámano-Sánchez, H.**, ..., Chemes, L.B., Gibson, J.T. Short linear motif candidates in the cell entry system used by SARS-CoV-2 and their potential therapeutic implications. *ArXiv* [q-bio.BM], 2020. [arXiv:2004.10274](https://arxiv.org/abs/2004.10274).
+* Meszaros, B., **Sámano-Sánchez, H.**, ..., Chemes, L.B., Gibson, J.T. Short linear motif candidates in the cell entry system used by SARS-CoV-2 and their potential therapeutic implications. *Science Signaling*, 2021. doi: [10.1126/scisignal.abd0334](https://doi.org/10.1126/scisignal.abd0334).
 
 * **Sámano-Sánchez, H.**, Gibson, J.T. Mimicry of Short Linear Motifs by Bacterial Pathogens: A Drugging Opportunity. *Trends in Biochemical Sciences*, 2020. doi: [10.1016/j.tibs.2020.03.003](https://doi.org/10.1016/j.tibs.2020.03.003).
 
