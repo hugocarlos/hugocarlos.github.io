@@ -17,7 +17,7 @@ Education
 * **[Joint Master Programme in Infectious Diseases Vaccinology and Drug Discovery](https://www.unibas.ch/de/Studium/Studienangebot/Studiengaenge-faecher/Infectious-Diseases.html)**, University of Basel/National University of Singapore, Switzerland/Singapore, 2015.
 * **[B.Sc. in Genomics Sciences](http://www.lcg.unam.mx/about)**, National Autonomous University of Mexico (UNAM), Cuernavaca, Mexico, 2011.
 
-Research experience
+Research and work experience
 ======
 
 * 10/15 - 01/20: **PhD student / Bridging Postdoctoral Fellow**, European Moleular Biology Laboratory, Heidelgerg, Germany. Advisor: Dr. Toby J. Gibson.
