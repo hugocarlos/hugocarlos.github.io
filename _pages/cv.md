@@ -20,6 +20,7 @@ Education
 Research and work experience
 ======
 
+* 10/20 - present: **Instructor**, Biomedical Informatics Programme, Zhejiang University-University of Edinburgh Institute, China.
 * 10/15 - 01/20: **PhD student / Bridging Postdoctoral Fellow**, European Moleular Biology Laboratory, Heidelgerg, Germany. Advisor: Dr. Toby J. Gibson.
 * 01/14 - 02/15: **Master thesis**, Vivax Malaria Lab, National University of Singapore, Singapore. Advisors: Dr. Bruce M. Russell and Prof. Dr. Markus R. Wenk.
 * 10/12 - 07/13: **Research Assistant**, National Institute of Public Health, Cuernavaca, Mexico. Advisor: Jesús Martínez-Barnetche.
