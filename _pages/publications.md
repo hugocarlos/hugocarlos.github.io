@@ -11,7 +11,7 @@ For a full list of publications, please visit my **[Google Scholar profile](http
 
 List of publications:
 
-* Kumar, K., ..., ****Sámano-Sánchez, H.**, ..., Gibson, T.J., The eukaryotic linear motif resource: 2022 release. *Nucleic Acids Research*, 2022. doi: [10.1093/nar/gkab975](https://doi.org/10.1093/nar/gkab975).
+* Kumar, K., ..., **Sámano-Sánchez, H.**, ..., Gibson, T.J., The eukaryotic linear motif resource: 2022 release. *Nucleic Acids Research*, 2022. doi: [10.1093/nar/gkab975](https://doi.org/10.1093/nar/gkab975).
 
 * Meszaros, B., **Sámano-Sánchez, H.**, ..., Chemes, L.B., Gibson, J.T. Short linear motif candidates in the cell entry system used by SARS-CoV-2 and their potential therapeutic implications. *Science Signaling*, 2021. doi: [10.1126/scisignal.abd0334](https://doi.org/10.1126/scisignal.abd0334).
 
