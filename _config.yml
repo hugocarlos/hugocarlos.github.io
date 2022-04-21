@@ -99,7 +99,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-4569296-5
+    tracking_id          : G-LVRL5TD1QN
 #    anonymize_ip         : # true, false (default)
 
 
