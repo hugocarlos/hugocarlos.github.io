@@ -12,6 +12,7 @@
 
 #theme                    : "minimal-mistakes-jekyll"
 ##remote_theme             : "mmistakes/minimal-mistakes@4.14.1"
+remote_theme              : jekyll/minima
 ##minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -312,6 +313,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 #  - jemoji
 #  - jekyll-include-cache
 
