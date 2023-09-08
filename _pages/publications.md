@@ -12,11 +12,9 @@ For a full list of publications, please visit my **[Google Scholar profile](http
 List of publications:
 
 2023
-* **Sámano-Sánchez, H.**, Gibson, T.J., Chemes, L.B., Using Linear Motif Database Resources to Identify SH2 Domain Binders. *Methods Mol Biol*, 2023. doi:[10.1007/978-1-0716-3393-9_9](https://doi.org/10.1007/978-1-0716-3393-9_9).
+* **Sámano-Sánchez, H.**, Gibson, T.J., Chemes, L.B., Using Linear Motif Database Resources to Identify SH2 Domain Binders. *Methods Mol Biol*, 2023. doi: [10.1007/978-1-0716-3393-9_9](https://doi.org/10.1007/978-1-0716-3393-9_9).
 
 2022
-  The eukaryotic linear motif resource: 2022 release. *Nucleic Acids Research*, 2022. doi: [10.1093/nar/gkab975](https://doi.org/10.1093/nar/gkab975).
-
 * Kumar, K., ..., **Sámano-Sánchez, H.**, ..., Gibson, T.J., The eukaryotic linear motif resource: 2022 release. *Nucleic Acids Research*, 2022. doi: [10.1093/nar/gkab975](https://doi.org/10.1093/nar/gkab975).
 
 2021
