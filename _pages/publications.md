@@ -13,7 +13,7 @@ List of publications:
 
 2024
 
-* Giménez, A., Del Giudice, M., López, P., Guaimas, F., **Sámano-Sánchez, H.**, Gibson, T., Chemes, L., Arregui, C., Ugalde, J., Czibener, C. Brucella NpeA is a secreted Type IV effector containing an N-WASP binding short linear motif that promotes niche formation. *mBio*, Online ahead of print, 2024. doi: [10.1128/mbio.00726-24](https://journals.asm.org/doi/10.1128/mbio.00726-24).
+* Giménez, A., Del Giudice, M., López, P., Guaimas, F., **Sámano-Sánchez, H.**, Gibson, T., Chemes, L., Arregui, C., Ugalde, J., Czibener, C. Brucella NpeA is a secreted Type IV effector containing an N-WASP binding short linear motif that promotes niche formation. *mBio*, June 2024. doi: [10.1128/mbio.00726-24](https://journals.asm.org/doi/10.1128/mbio.00726-24).
 
 2023
 * **Sámano-Sánchez, H.**, Gibson, T.J., Chemes, L.B. Using Linear Motif Database Resources to Identify SH2 Domain Binders. *Methods Mol Biol*, 2023. doi: [10.1007/978-1-0716-3393-9_9](https://doi.org/10.1007/978-1-0716-3393-9_9).
