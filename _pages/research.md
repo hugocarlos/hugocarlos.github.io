@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /research/
 title: "Research"
 excerpt: "Research"
 author_profile: true
@@ -12,6 +12,10 @@ redirect_from:
 - Structural biology
 - Host-microbe interactions
   
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  

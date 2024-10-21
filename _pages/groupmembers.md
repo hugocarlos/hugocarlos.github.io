@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /groupmembers/
 title: "Group Members"
 excerpt: "Group members"
 author_profile: true
