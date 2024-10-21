@@ -13,8 +13,8 @@ Below is a summarized version of my CV. You can download my full CV **[here](/fi
 
 Research and work experience
 ======
-
-* 10/21 - present: **Lecturer**, Zhejiang University-University of Edinburgh Institute, China.
+* 10/24 - present: **Assistant Professor (tenure track)**, Zhejiang University-University of Edinburgh Institute, China.
+* 10/21 - 09/24: **Lecturer**, Zhejiang University-University of Edinburgh Institute, China.
 * 05/20 - 09/21: **Postdoctoral fellow**, University of Edinburgh, UK. Group of Prof. Susan Welburn.
 * 10/15 - 01/20: **PhD student / Bridging Postdoctoral Fellow**, European Moleular Biology Laboratory, Heidelgerg, Germany. Advisor: Dr. Toby J. Gibson.
 * 01/14 - 02/15: **Master thesis**, Vivax Malaria Lab, National University of Singapore, Singapore. Advisors: Dr. Bruce M. Russell and Prof. Dr. Markus R. Wenk.
