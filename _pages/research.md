@@ -1,12 +1,13 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "Research"
-author_profile: true
+layout: archive
+author_profile: yes
 redirect_from: 
   - /research/
   - /research.html
 ---
+
 
 - Computational biology
 - Structural biology

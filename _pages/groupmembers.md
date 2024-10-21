@@ -1,7 +1,7 @@
 ---
 permalink: /groupmembers/
 title: "Group Members"
-excerpt: "Group members"
+layout: archive
 author_profile: true
 redirect_from: 
   - /groupmembers/
