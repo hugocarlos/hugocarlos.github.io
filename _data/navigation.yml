@@ -15,4 +15,7 @@ main:
   - title: "Group members"
     url: /groupmembers/
     
+  - title: "News"
+    url: /news/
+    
 
