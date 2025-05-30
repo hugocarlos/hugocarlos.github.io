@@ -2,11 +2,12 @@
 permalink: /research/
 title: "Research"
 layout: archive
-author_profile: yes
+author_profile: true
 redirect_from: 
-  - /research/
+  - /research
   - /research.html
 ---
+
 
 
 - Computational biology
