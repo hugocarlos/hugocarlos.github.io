@@ -1,11 +1,13 @@
 ---
 title: 'Welcome to The Samano Lab'
-date: 2025-05-20
+date: 2025-5-20
 permalink: /posts/thestart/
 tags:
   - news
   - all
 ---
+
+
 
 
 &nbsp;  

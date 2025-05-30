@@ -4,6 +4,7 @@ title: "News and activities"
 layout: archive
 author_profile: true
 redirect_from: 
+  - /wordpress/blog-posts/
   - /news
   - /news.html
   - /activities
@@ -22,3 +23,11 @@ redirect_from:
 {% endfor %}
 
 
+---
+layout: archive
+permalink: /year-archive/
+title: "Blog posts"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
