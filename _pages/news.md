@@ -22,12 +22,3 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-
----
-layout: archive
-permalink: /year-archive/
-title: "Blog posts"
-author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
----
