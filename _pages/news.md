@@ -11,6 +11,9 @@ redirect_from:
 ---
 
 
+Joining the SMBE 2025 meeting in Beijing, hit me up!
+
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
