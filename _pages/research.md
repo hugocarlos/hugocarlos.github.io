@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research Themes"
+#title: "Research Themes"
 layout: archive
 author_profile: true
 redirect_from: 
@@ -25,6 +25,8 @@ Our group just started at the end of 2024 so we are recruiting at all levels, vi
 
 &nbsp;  
 
+# Research themes
+
 - Computational biology
 - Structural biology
 - Host-microbe interactions
@@ -46,34 +48,38 @@ To achieve this, evolutionary patterns, big data, AI-based algorithms and experi
 <img width="606" height="614" alt="image" src="https://github.com/user-attachments/assets/f73b5482-c505-480d-ae19-564eaddb4a76" />
 
 ## General Interests
-### Evolution
 
-### Protein bioinformatics
+- Evolution
 
-### Structural biology
+- Protein bioinformatics
 
-### Algorithm development
+- Structural biology
 
-### Host-pathogen interactions
+- Algorithm development
+
+- Host-pathogen interactions
 
 <img width="684" height="654" alt="image" src="https://github.com/user-attachments/assets/463376f6-864f-46ed-8363-c02e399fe201" />
 
+
 ## Methods
-### Positive selection
 
-### Phylogenetic analysis
+- Positive selection
 
-### Protein modelling
+- Phylogenetic analysis
 
-### AI-based (AlphaFold, etc. )
+- Protein modelling
 
-### Molecular dynamics
+- AI-based (AlphaFold, etc. )
 
-### Protein docking
+- Molecular dynamics
 
-### Stability assessment
+- Protein docking
 
-### Tool/approach benchmarking
+- Stability assessment
+
+- Tool/approach benchmarking
+
 <img width="694" height="670" alt="image" src="https://github.com/user-attachments/assets/1901f606-f773-4584-9a70-c5f0fb342362" />
 
 
