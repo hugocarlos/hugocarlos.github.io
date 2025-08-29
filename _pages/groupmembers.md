@@ -8,6 +8,7 @@ redirect_from:
   - /groupmembers.html
 ---
 
+---
 # The Team
 
 ## Hugo Sámano-Sánchez
