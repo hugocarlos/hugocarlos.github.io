@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research Themes"
 layout: archive
 author_profile: true
 redirect_from: 
@@ -10,14 +10,13 @@ redirect_from:
 
 
 
-- Computational biology
-- Structural biology
-- Host-microbe interactions
+
 
 -----
-<img width="232" height="132" alt="image" src="https://github.com/hugocarlos/hugospage/blob/main/01-1743489053-877709.png" />
 
-# About us
+<img width="2324" height="1320" alt="image" src="https://github.com/hugocarlos/hugospage/blob/main/01-1743489053-877709.png" />
+
+
 
 
 In the SAMANO Lab we study how proteins interact to each other. In particular, we are interested in how secreted proteins from pathogens evolve functional sites. 
@@ -27,7 +26,13 @@ We combine evolution, computational structural biology and wet lab methods to pr
 
 Our group just started at the end of 2024 so we are recruiting at all levels, visit our [recruitment page](https://person.zju.edu.cn/samano#recruitment).
 
+
 &nbsp;  
+
+- Computational biology
+- Structural biology
+- Host-microbe interactions
+
 &nbsp;  
 &nbsp;  
 &nbsp;  
