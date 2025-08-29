@@ -14,7 +14,7 @@ redirect_from:
 
 -----
 
-<img width="2324" height="1320" alt="image" src="https://github.com/hugocarlos/hugospage/01-1743489053-877709" />
+<img width="2324" height="1320" alt="image" src="https://github.com/hugocarlos/hugospage/blob/main/01-1743489053-877709.png" />
 
 
 
