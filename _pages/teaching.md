@@ -8,7 +8,7 @@ redirect_from:
   - /teaching.html
 ---
 
-# Teaching
+
 
 <img width="1270" height="148" alt="image" src="https://github.com/user-attachments/assets/cf83c84d-2dec-4322-ab01-a759530bf36c" />
 
