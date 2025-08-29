@@ -14,12 +14,7 @@ redirect_from:
 
 -----
 
-<img width="2324" height="1320" alt="image" src="https://github.com/hugocarlos/hugospage/blob/main/01-1743489053-877709.png" />
-
-
-
-
-<img width="2324" height="1320" alt="image" src="https://github.com/Dan97-cyber/HUGO-CARLOS-SAMANO-SANCHEZ.github.io/blob/main/01-1743489053-877709.png" />
+<img width="2324" height="1320" alt="image" src="https://raw.githubusercontent.com/hugocarlos/hugospage/refs/heads/main/01-1743489053-877709.png" />
 
 In the SAMANO Lab we study how proteins interact to each other. In particular, we are interested in how secreted proteins from pathogens evolve functional sites. 
 
