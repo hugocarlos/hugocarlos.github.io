@@ -15,7 +15,7 @@ redirect_from:
 - Host-microbe interactions
 
 -----
-<img width="2324" height="1320" alt="image" src="https://github.com/hugocarlos/hugospage/blob/main/01-1743489053-877709.png" />
+<img width="232" height="132" alt="image" src="https://github.com/hugocarlos/hugospage/blob/main/01-1743489053-877709.png" />
 
 # About us
 
