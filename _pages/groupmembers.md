@@ -1,6 +1,6 @@
 ---
 permalink: /groupmembers/
-title: "Group Members"
+#title: "Group Members"
 layout: archive
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # The Team
+
 ## Hugo Sámano-Sánchez
 Assistant Professor (tenure track)
 
