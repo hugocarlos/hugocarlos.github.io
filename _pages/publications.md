@@ -11,6 +11,10 @@ For a full list of publications, please visit my **[Google Scholar profile](http
 
 List of publications:
 
+2026
+
+* Sanogo, B., ..., \textbf{\underline{S\'amano-S\'anchez, H.}}, ..., Welburn, S.C. A reservoir at the gates: a scoping review of nonhuman mammalian hosts for human schistosomiasis in western Africa and the critical challenge for elimination. *Infectious Diseases of Poverty*, January 2026. doi: [10.1186/s40249-025-01394-6](https://doi.org/10.1186/s40249-025-01394-6).
+
 2024
 
 * Giménez, A., Del Giudice, M., López, P., Guaimas, F., **Sámano-Sánchez, H.**, Gibson, T., Chemes, L., Arregui, C., Ugalde, J., Czibener, C. Brucella NpeA is a secreted Type IV effector containing an N-WASP binding short linear motif that promotes niche formation. *mBio*, June 2024. doi: [10.1128/mbio.00726-24](https://journals.asm.org/doi/10.1128/mbio.00726-24).
