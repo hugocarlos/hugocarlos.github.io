@@ -13,7 +13,9 @@ List of publications:
 
 2026
 
-* Sanogo, B., ..., \textbf{\underline{S\'amano-S\'anchez, H.}}, ..., Welburn, S.C. A reservoir at the gates: a scoping review of nonhuman mammalian hosts for human schistosomiasis in western Africa and the critical challenge for elimination. *Infectious Diseases of Poverty*, January 2026. doi: [10.1186/s40249-025-01394-6](https://doi.org/10.1186/s40249-025-01394-6).
+* Tang, Q., ..., **Sámano-Sánchez, H.**, ..., Liu, J. A Non-Canonical Role of SMAD4 in Regulating 3D Genome Architecture to Inhibit Lung Squamous Cell Carcinoma Development. Advanced Science, June 2026, e75839. doi: [10.1002/advs.75839](https://doi.org/10.1002/advs.75839).
+
+* Sanogo, B., ..., **Sámano-Sánchez, H.**, ..., Welburn, S.C. A reservoir at the gates: a scoping review of nonhuman mammalian hosts for human schistosomiasis in western Africa and the critical challenge for elimination. *Infectious Diseases of Poverty*, January 2026. doi: [10.1186/s40249-025-01394-6](https://doi.org/10.1186/s40249-025-01394-6).
 
 2024
 
